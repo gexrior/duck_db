@@ -1,5 +1,4 @@
-
-CXX = g++
+CXX += -std=gnu++11
 
 SRC_DIR = ./src/
 TARGET = duck_db
